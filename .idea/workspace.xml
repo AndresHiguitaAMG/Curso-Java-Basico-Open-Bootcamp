@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a29b46c-1cb4-4ce4-8eb8-b52c43280fcf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/await/ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/await/Funciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/await/IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/await/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/await/Operadores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/await/Tipos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prueba/PruebaFunciones.java" afterDir="false" />
+    <list default="true" id="8a29b46c-1cb4-4ce4-8eb8-b52c43280fcf" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/com/await/WhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +42,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ForLoop">
+  <component name="RunManager" selected="Application.WhileLoop">
     <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.await.ForLoop" />
       <module name="documentation" />
@@ -107,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tipos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.await.Tipos" />
+    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.await.WhileLoop" />
       <module name="documentation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prueba.*" />
+          <option name="PATTERN" value="com.await.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WhileLoop" />
         <item itemvalue="Application.ForLoop" />
         <item itemvalue="Application.IfElse" />
         <item itemvalue="Application.Funciones" />
         <item itemvalue="Application.PruebaFunciones" />
-        <item itemvalue="Application.Tipos" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +127,30 @@
       <option name="presentableId" value="Default" />
       <updated>1679712544276</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1681440891698</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681440891698</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
