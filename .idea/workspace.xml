@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a29b46c-1cb4-4ce4-8eb8-b52c43280fcf" name="Changes" comment="create classes">
-      <change afterPath="$PROJECT_DIR$/src/com/await/CocheMain.java" afterDir="false" />
+    <list default="true" id="8a29b46c-1cb4-4ce4-8eb8-b52c43280fcf" name="Changes" comment="create objects">
+      <change afterPath="$PROJECT_DIR$/src/com/await/CocheElectrico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/await/CocheHibrido.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/await/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/await/Coche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/await/CocheMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/await/CocheMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,10 +126,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.CocheMain" />
-        <item itemvalue="Application.SwitchCase" />
-        <item itemvalue="Application.ForLoop" />
         <item itemvalue="Application.WhileLoop" />
+        <item itemvalue="Application.SwitchCase" />
         <item itemvalue="Application.IfElse" />
+        <item itemvalue="Application.ForLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681664203503</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="create objects">
+      <created>1681665272547</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681665272547</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,17 +212,7 @@
     <MESSAGE value="Use of continue and break 2.0" />
     <MESSAGE value="switch statements" />
     <MESSAGE value="create classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="create classes" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/await/CocheMain.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="create objects" />
+    <option name="LAST_COMMIT_MESSAGE" value="create objects" />
   </component>
 </project>
