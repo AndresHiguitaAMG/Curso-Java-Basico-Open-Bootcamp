@@ -1,6 +1,6 @@
 package com.await;
 
-public abstract class Coche {
+public class Coche {
     //Aributos
     String color;
     String fabricante;
