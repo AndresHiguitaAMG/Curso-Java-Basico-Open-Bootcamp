@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a29b46c-1cb4-4ce4-8eb8-b52c43280fcf" name="Changes" comment="String class methods">
-      <change afterPath="$PROJECT_DIR$/src/com/await/Arrays.java" afterDir="false" />
+    <list default="true" id="8a29b46c-1cb4-4ce4-8eb8-b52c43280fcf" name="Changes" comment="Arrays">
+      <change afterPath="$PROJECT_DIR$/src/com/await/CocheList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/await/ListMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/await/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/await/Arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +58,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Arrays">
+  <component name="RunManager" selected="Application.ListMain">
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.await.Arrays" />
       <module name="documentation" />
@@ -70,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CocheMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.await.CocheMain" />
+    <configuration name="InterfacesMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.await.interfaces.InterfacesMain" />
       <module name="documentation" />
       <extension name="coverage">
         <pattern>
@@ -83,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfacesMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.await.interfaces.InterfacesMain" />
+    <configuration name="ListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.await.ListMain" />
       <module name="documentation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.await.interfaces.*" />
+          <option name="PATTERN" value="com.await.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListMain" />
         <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.StringMain" />
         <item itemvalue="Application.InterfacesMain" />
         <item itemvalue="Application.PolimorfismoMain" />
-        <item itemvalue="Application.CocheMain" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682309690307</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Arrays">
+      <created>1682478468773</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1682478468773</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -268,6 +277,7 @@
     <MESSAGE value="abstract classes" />
     <MESSAGE value="interfaces" />
     <MESSAGE value="String class methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="String class methods" />
+    <MESSAGE value="Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
   </component>
 </project>

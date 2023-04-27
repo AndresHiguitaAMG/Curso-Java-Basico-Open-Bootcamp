@@ -6,11 +6,11 @@ public class Arrays {
         for (int i = 0; i < notas.length; i++) {
             System.out.println(notas[i]);
         }
-        for (int item: notas) {
+        for (int item : notas) {
             System.out.println(item);
         }
-        notas.binarySearch(notas, 9);
-        notas.sort(notas);
-        equals(array1, array2);
+        //notas.binarySearch(notas, 9);
+        //notas.sort(notas);
+        //equals(array1, array2);
     }
 }
