@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a29b46c-1cb4-4ce4-8eb8-b52c43280fcf" name="Changes" comment="list">
-      <change afterPath="$PROJECT_DIR$/src/com/await/MapMain.java" afterDir="false" />
+    <list default="true" id="8a29b46c-1cb4-4ce4-8eb8-b52c43280fcf" name="Changes" comment="maps">
+      <change afterPath="$PROJECT_DIR$/src/com/await/TryCatchMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,26 +56,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MapMain">
+  <component name="RunManager" selected="Application.TryCatchMain">
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.await.Arrays" />
       <module name="documentation" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.await.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InterfacesMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.await.interfaces.InterfacesMain" />
-      <module name="documentation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.await.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,13 +109,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TryCatchMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.await.TryCatchMain" />
+      <module name="documentation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.await.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TryCatchMain" />
         <item itemvalue="Application.MapMain" />
         <item itemvalue="Application.ListMain" />
         <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.StringMain" />
-        <item itemvalue="Application.InterfacesMain" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682566758887</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="maps">
+      <created>1682648074796</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1682648074796</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -284,6 +291,7 @@
     <MESSAGE value="String class methods" />
     <MESSAGE value="Arrays" />
     <MESSAGE value="list" />
-    <option name="LAST_COMMIT_MESSAGE" value="list" />
+    <MESSAGE value="maps" />
+    <option name="LAST_COMMIT_MESSAGE" value="maps" />
   </component>
 </project>
