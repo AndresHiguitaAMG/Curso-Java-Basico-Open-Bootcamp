@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a29b46c-1cb4-4ce4-8eb8-b52c43280fcf" name="Changes" comment="try to finally catch">
-      <change afterPath="$PROJECT_DIR$/src/com/await/NameFormatException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/await/ThrowMain.java" afterDir="false" />
+    <list default="true" id="8a29b46c-1cb4-4ce4-8eb8-b52c43280fcf" name="Changes" comment="Throw and throws">
+      <change afterPath="$PROJECT_DIR$/src/com/await/ScannerMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,20 +61,7 @@
       <recent name="com.await" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThrowMain">
-    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.await.Arrays" />
-      <module name="documentation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.await.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ScannerMain">
     <configuration name="ListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.await.ListMain" />
       <module name="documentation" />
@@ -91,6 +77,19 @@
     </configuration>
     <configuration name="MapMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.await.MapMain" />
+      <module name="documentation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.await.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.await.ScannerMain" />
       <module name="documentation" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScannerMain" />
         <item itemvalue="Application.ThrowMain" />
         <item itemvalue="Application.TryCatchMain" />
         <item itemvalue="Application.MapMain" />
         <item itemvalue="Application.ListMain" />
-        <item itemvalue="Application.Arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682653187370</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Throw and throws">
+      <created>1682731687534</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1682731687534</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -306,6 +312,7 @@
     <MESSAGE value="list" />
     <MESSAGE value="maps" />
     <MESSAGE value="try to finally catch" />
-    <option name="LAST_COMMIT_MESSAGE" value="try to finally catch" />
+    <MESSAGE value="Throw and throws" />
+    <option name="LAST_COMMIT_MESSAGE" value="Throw and throws" />
   </component>
 </project>
